@@ -11,7 +11,7 @@ class EmailParser
   
   def parse
       arr = @emails.split()
-      arr
+      arr = 
   end
 end
 
